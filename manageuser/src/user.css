@@ -1,0 +1,41 @@
+.table_div{
+    margin: 5%;
+}
+
+.add_user_btn{
+    margin-top: 3%;
+    margin-left:9%;
+}
+.close-btn{
+    margin-left:25px
+}
+
+.err_msg_div{
+    color:red
+}
+.add-form{
+    width: 54%;
+    margin-top: 6%;
+    margin-left: 22%;
+    padding: 3%;
+    background: white;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+.form-group{
+    margin-bottom: 1rem
+}
+
+.modalClass{
+    /* border: '2px solid #000'; */
+    background-color: 'gray';
+    /* box-shadow: '2px solid black'; */
+    /* height:80px; */
+    width: 100%;
+    /* margin: 'auto' */
+}
+
+.remove_btn{
+    margin-top: -2.5%;
+    margin-left: 28%;
+}
